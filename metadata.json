@@ -1,0 +1,8 @@
+{
+  "name": "Topic Roller",
+  "description": "Interactive kinetic topic roller instrument and visual content tool by wow_navex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
